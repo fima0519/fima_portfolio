@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme{
+    /* container width */
+    --spacing-container: 1210px;
+    /* container width */
+
+    /* website font  */
+    --font-display: "Poppins", "sans-serif";
+    /* website font  */
+
+    /* button color  */
+    --color-btnColor: #5E3BEE;
+    --color-countColor: #121212;
+    /* button color  */
+}
