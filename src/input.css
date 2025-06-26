@@ -1,8 +1,10 @@
 @import "tailwindcss";
+@plugin "daisyui";
 
 @theme{
     /* container width */
     --spacing-container: 1210px;
+    --spacing-height: 16px;
     /* container width */
 
     /* website font  */
